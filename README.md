@@ -1,4 +1,4 @@
-# Some sandbox code relevant to work in cloud cybersecurity
+# Assorted Python code relevant to work in cloud and cybersecurity
 
 ## [Cypher: Basic](cypher_basic.py)
 A simple encryption/decryption implementation 
