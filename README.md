@@ -8,3 +8,6 @@ Retrieve a log file via a streaming HTTP request API, process it to get somethin
 
 ## [PDF Parser](pdf_parser.py)
 Open a PDF file (e.g. an invoice), extract the content as markdown,and then extract a data model for querying 
+
+## [Count frequency of words in a document](count_frequency.py)
+Simple demo of reading a file and doing some trivial processing on it 
