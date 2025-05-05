@@ -1,0 +1,28 @@
+{
+  "fallback" : 768127.8952,
+  "stateMachine" : {
+    "flags" : [
+      "reloadConfig",
+      "userRequest"
+    ],
+    "pendingFlags" : [
+
+    ],
+    "publicKeybag" : {
+      "app" : "AT",
+      "env" : "production",
+      "fetchTime" : 749594,
+      "patLogBeginMs" : 1727099,
+      "tltLogBeginMs" : 1698735,
+      "trustedAppSPKI" : [
+        "cV53rPRrAlVpGJXE=",
+        "iGERo442FoSDZAY=",
+        "Sdy6mRI77bnRY="
+      ]
+    },
+    "reachability" : {
+      "network" : true
+    },
+    "state" : "ready"
+  }
+}
