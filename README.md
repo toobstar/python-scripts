@@ -10,4 +10,4 @@ Retrieve a log file via a streaming HTTP request API, process it to get somethin
 Open a PDF file (e.g. an invoice), extract the content as markdown,and then extract a data model for querying 
 
 ## [Count frequency of words in a document](count_frequency.py)
-Simple demo of reading a file and doing some trivial processing on it 
+Simple demo of reading a file and using OpenAi to parse structured information out of it
