@@ -1,7 +1,7 @@
 import requests
 import re
 
-# Fancy tables in logs: https://rich.readthedocs.io/en/latest/tables.html
+# tables in logs: https://rich.readthedocs.io/en/latest/tables.html
 from rich.console import Console
 from rich.table import Table
 
